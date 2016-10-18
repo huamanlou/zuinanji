@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../../../../../../../sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="MobileOptimized" content="width" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="../../../../../../../default.htm" />
+<link rel="shortlink" href="../../../../../../../default.htm" />
+  <title>Page not found | Premium Bootstrap Templates</title>
+  <link type="text/css" rel="stylesheet" href="../../../../../../../sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../../../../../../sites/default/files/css/css_TsVRTbLFUpEZAfw-_bWPJu840QT523CPjUVJ5MRWfyk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../../../../../../sites/default/files/css/css_MnXiytJtb186Ydycnpwpw34cuUsHaKc80ey5LiQXhSY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../../../../../../../maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../../../../../../sites/default/files/css/css_yeRLrb1kP5BB8Brr_MyrqtFCJKAg3_87dN4Twtef3jQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../../../../../../sites/default/files/css/css_kBYZYXN3HsoN5MBmOQzyPyYBIWnwQXSH_OK918QKi2I.css" media="all" />
+
+<!--[if (IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="../../../../../../../sites/all/themes/idea/ie9.css@ocmobj" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="../../../../../../../sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="all" />
+
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="../../../../../../../../html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="../../../../../../../sites/default/files/js/js_MpKfe1sTh5JIVGCZ17DsAuT1rqAC38MLLlkjqjQ1X_k.js"></script>
+<script type="text/javascript" src="../../../../../../../sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","../../../../../../../../www.google-analytics.com/analytics.js","ga");ga("create", "UA-40620479-7", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("set", "page", "../../../../../../../404.html@page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="../../../../../../../sites/default/files/js/js_SJB9nUVLVaNNlFojmbGvViPzHxspg1XgYb9TwglOZ6g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+		if (($("[data-animation-effect]").length>0) && !Modernizr.touch) {
+			$("[data-animation-effect]").each(function() {
+				var $this = $(this),
+				animationEffect = $this.attr("data-animation-effect");
+				if(Modernizr.mq("only all and (min-width: 768px)") && Modernizr.csstransitions) {
+					$this.appear(function() {
+						var delay = ($this.attr("data-effect-delay") ? $this.attr("data-effect-delay") : 1);
+						if(delay > 1) $this.css("effect-delay", delay + "ms");
+						setTimeout(function() {
+							$this.addClass("animated object-visible " + animationEffect);
+						}, delay);
+					}, {accX: 0, accY: -130});
+				} else {
+					$this.addClass("object-visible");
+				}
+			});
+		};
+	});
+//--><!]]>
+</script>
+<script type="text/javascript" src="../../../../../../../sites/default/files/js/js_XDyEJmmTCFieaMJLXXwfxFEeOi7JiXJ-LG8KlfQlQBo.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+		if (($(".parallax").length>0)  && !Modernizr.touch ){
+			$(".parallax").parallax("50%", 0.2, false);
+		};
+	});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+		$(window).scroll(function() {
+			if($(this).scrollTop() != 0) {
+				$(".scrollToTop").fadeIn();	
+			} else {
+				$(".scrollToTop").fadeOut();
+			}
+		});
+		
+		$(".scrollToTop").click(function() {
+			$("body,html").animate({scrollTop:0},800);
+		});
+	});
+//--><!]]>
+</script>
+<script type="text/javascript" src="../../../../../../../sites/default/files/js/js_vpQFIiGrwS8pDy6scvxx1X6vQonoBYMDtYKYiikJjiw.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"idea","theme_token":"prfVqiScR_jowWEBg53SDCU50U5ZwF80r1m_abPZhTA","js":{"sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js":1,"misc/jquery.once.js":1,"misc/drupal.js":1,"sites/all/modules/google_analytics/googleanalytics.js":1,"0":1,"sites/all/themes/idea/bootstrap/js/bootstrap.min.js":1,"sites/all/themes/idea/plugins/jquery.appear.js":1,"1":1,"sites/all/themes/idea/plugins/jquery.parallax-1.1.3.js":1,"2":1,"3":1,"sites/all/themes/idea/plugins/modernizr.js":1},"css":{"modules/system/system.base.css":1,"modules/system/system.menus.css":1,"modules/system/system.messages.css":1,"modules/system/system.theme.css":1,"modules/comment/comment.css":1,"modules/field/theme/field.css":1,"modules/node/node.css":1,"modules/search/search.css":1,"modules/user/user.css":1,"sites/all/modules/views/css/views.css":1,"sites/all/modules/ctools/css/ctools.css":1,"http:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.2.0\/css\/font-awesome.min.css":1,"sites\/all\/themes\/idea\/bootstrap\/css\/bootstrap.css":1,"sites\/all\/themes\/idea\/css\/animations.css":1,"sites\/all\/themes\/idea\/css\/style.css":1,"sites\/all\/themes\/idea\/fonts\/http\/opensans-font.css":1,"sites\/all\/themes\/idea\/fonts\/http\/ptserif-font.css":1,"sites\/all\/themes\/idea\/fonts\/fontello\/css\/fontello.css":1,"sites\/all\/themes\/idea\/ie9.css":1,"sites\/all\/themes\/idea\/custom.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-preview page-preview-the-project page-preview-the-project-v13 page-preview-the-project-v13-template page-preview-the-project-v13-template-fonts page-preview-the-project-v13-template-fonts-font-awesome page-preview-the-project-v13-template-fonts-font-awesome-css page-preview-the-project-v13-template-fonts-font-awesome-css-m663-1125q-11--1--155--105t-85--95q-5--1--5-5q0-12-19-15h10zm750-1111q-4--1--115-65t-175-45q24-11-32--2q3--6--3--9zm399-684q-4-1--6--3t-45--125t-55--135t-10--13q-7--10--1--12q4--1-125-7t125-18q1-3-2-7t2-6t15-45t05-4v3t-1-25t-3-2z-m1254-325q0-18--55-42q4-15-75-275t5-26t3-215t05-225t-1-195t-35-22t-4-205t-5-25t-55-265q-10-48--47-103t-72-75q24--20-57--83q87--162-54--278q-11--40--50--42q-31--4--385-185t-8-835t-115-107q-9-39--195-69t-195-455t-155-245t-13-15t-75-7-q-14-62--31-103t-295-56t-235-33t-15-40q-4-21-6-535t45-495t-445-25q-15-3--445-18t-355-16q-8-1--11-26t8-51t36-27q37-3-51--30t4--58q-11--19--2--265t30--05q13-4-13-36v37q-5-30--135-50t-21-305t-235-15t-27-75q-107--8--89--134q0--15--1--15-q-9-9--295-105t-33--05t-155-5q1-57--16-90t-45-34q-27-1--415--275t-165--595q-1--15-35--37t13--375t155--135q10-3-16-14q4-9--7-8q-7-0--155-145t-95-335q-1-22-9-37t34-14q17-0-27--21t95--39t-15--22q-22--15--31--29q-8--12--275--235-t-205--125q-13--14--155--27t75--18q14--8-25--195t16--19t185--13t355--65q47--2-102-15q2-1-23-7t345-105t295-13t21-175q9-14-20-8q5--3-65--85t-3--12t-165--95q-20--6--565--215t-455--195q-44--19--70--23q-25--5--79-2q-10-2--9--2t17--19-q25--23-67--22q17-1-36-7t36-14t335-175t30-17t245-12t175-25t85--11q0--2--1--45t-4--5t-6--45t-85--5t-9--45t-10--5t-95--45q-28--14--675--44t-665--43t-49--1q-21-11--63-73q-22-31--25-22q-1--3--1--10q0--25--15--565t-295--555t-21--58t115--63-q-23--6--625--90t-475--141q-2--18--15--69t-55--59q-8--24--29--3q-32-31--36-94q-2-28-4-56q4-19--1-18l-4--5q-36--65-10--166q5--12-25--28t24--20q20--23-104--905t93--765q16--15-175--38t-14--43t-455--23q8--15-29--445t28--54t7--705q46-24-7-92-q-4-8--105-16t-95-12t-2-6q3-5-13-95t20--25q46--52-166--36q133-15-177-87q23-38-34-30q12--6-10--52q-1--25--23--92q-9--23--6--375t24--155q3-19-145-77t135-90q2-21--65-735t-75-97t23-705q15-18-51-18q1-37-345-53t725-105t60--225zm626-1152-q3-17--25-30t-115-15q-9-2--9--7q2--5-5--6q10-0-7--15q-3--20-8--20q3-0-3-3zm1045-955q-2-8--65-115t-13-5t-145-55q-5-3--95-8t-7-8t-55-65t-4-4t-4--15q-14--16-7--435t39--315q9--1-145-8t35-20zm867-1168q0-11--5-195t-11-125t-9-3q-14--1--7--7l4--2-q14--4-18--31q0--3-8-2zm921-1401q0-2--25-5t-9-7t-95-6q-15-15--24-15q-9--1--115--75t-1--13t-05--125q-1--4--6--105t-6--9t3--85q4--3-8-0t11-9t15-9q1-1-9-1t15-2t9-7zm1486-60q20--12-31--245t12--24t-25--225t-155--22t-235--195t-30--185-t-315--165t-32--155t-27--13q-38--19--855--56t-755--64q-17--16--68--195t-89-145q-18-9--295-235t-165-255t-22-195t-47-95q-44-1--130-1q-19-0--57--15t-58--25q-44--1--795--15t-535--30t-435--285t-535--115q-29-1--111-31t-146-43q-19-4--51-95-t-50-9t-395-95t-335-145t-17-195q-10-23-7-665t18-545q1-16--4-40t-10-425t-45-365t105-27q14-12-57-14t60-12q30-18-42-35t12-51q21--73--32--106q-32--20--83--15q-34-3--43--10q-13--15-5--57q2--6-8--18t85--18t45--17t1--22q0--15--17--49t-14--48-q3--17-37--26q20--6-845--185t995--205q24--6-74--22t825--23t555--4q43-6-645-28t23-48t-75-585t-19-52t-20-365q-121-190--169-242q-68-74--113-40q-11--9--15-15q-3-16--2-38q1-29-10-52t24-47t22-42q8-21-265-72t295-78t30-61t39-54q110-143-124-195-q-12-112--16-310q-2-90-24-1515t106-1045q39-21-104-21q53-1-106--135t89--415q57--42-915--1215t295--1475q-5--95-30--214q34--113-133--218q55--59-995--163t595--191q8--49-5--845t-12--555t-20--22q-10--2--235--19t-27--355t-405--335t-61--14-q-18-1--315-5t-225-135t-135-155t-115-205t-9-195q-22-37--41-30t-28--49t7--97q20--70-1--195q-10--65-18--1005t73--33t85-355q59-49-895-665t1035-425q53-18-77-365t185-345t-25-285t-515-235q-33-11--495-48t-15-725t155-475q1--31-8--565-t145--405t205--285t21--19t215--13t165--95z" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+<!-- scrollToTop -->
+<!-- ================ -->
+<div class="scrollToTop"><i class="fa fa-angle-up"></i></div>
+
+<!-- page wrapper start -->
+<!-- ================ -->
+<div class="page-wrapper">
+
+	<!-- header start (remove fixed class from header in order to disable fixed navigation mode) -->
+	<!-- ================ --> 
+	<header class="header fixed clearfix">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3">
+
+					<!-- header-left start -->
+					<!-- ================ -->
+					<div class="header-left clearfix">
+												<div class="logo">
+							<a href="../../../../../../../default.htm" title="Home" rel="home" id="logo">
+								<img src="../../../../../../../sites/all/themes/idea/logo.png" alt="Home" />
+							</a>
+						</div>
+						
+											</div>
+					<!-- header-left end -->
+
+				</div>
+				<div class="col-md-9">
+
+					<!-- header-right start -->
+					<!-- ================ -->
+					<div class="header-right clearfix">
+												
+							<!-- main-navigation start -->
+							<!-- ================ -->
+							<div class="main-navigation animated">
+								<!-- navbar start -->
+								<!-- ================ -->
+								<nav class="navbar navbar-default" role="navigation">
+									<div class="container-fluid">
+										<!-- Toggle get grouped for better mobile display -->
+										<div class="navbar-header">
+											<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+												<span class="sr-only">Toggle navigation</span>
+												<span class="icon-bar"></span>
+												<span class="icon-bar"></span>
+												<span class="icon-bar"></span>
+											</button>
+										</div>
+
+										<!-- Collect the nav links, forms, and other content for toggling -->
+										<div class="collapse navbar-collapse" id="navbar-collapse-1">
+																					</div>
+									</div>
+								</nav>
+								<!-- navbar end -->
+							</div>
+							<!-- main-navigation end -->
+						
+											</div>
+					<!-- header-right end -->
+
+				</div>
+			</div>
+		</div>
+	</header>
+	<!-- header end -->
+
+		
+	
+	
+	<!-- main-container start -->
+	<!-- ================ -->
+	<section class="main-container">
+		<div class="container">
+			
+			
+			<div class="row">
+				
+				
+				<!-- main start -->
+				<!-- ================ -->
+				<div class="main col-md-12">
+
+										
+															<h1 class="page-title">Page not found</h1>															<div class="tabs"></div>															 
+					  <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    The requested page "/preview/the_project/v.1.3/template/fonts/font-awesome/css/M663%201125q-11%20-1%20-15.5%20-10.5t-8.5%20-9.5q-5%20-1%20-5%205q0%2012%2019%2015h10zM750%201111q-4%20-1%20-11.5%206.5t-17.5%204.5q24%2011%2032%20-2q3%20-6%20-3%20-9zM399%20684q-4%201%20-6%20-3t-4.5%20-12.5t-5.5%20-13.5t-10%20-13q-7%20-10%20-1%20-12q4%20-1%2012.5%207t12.5%2018q1%203%202%207t2%206t1.5%204.5t0.5%204v3t-1%202.5t-3%202z%20M1254%20325q0%2018%20-55%2042q4%2015%207.5%2027.5t5%2026t3%2021.5t0.5%2022.5t-1%2019.5t-3.5%2022t-4%2020.5t-5%2025t-5.5%2026.5q-10%2048%20-47%20103t-72%2075q24%20-20%2057%20-83q87%20-162%2054%20-278q-11%20-40%20-50%20-42q-31%20-4%20-38.5%2018.5t-8%2083.5t-11.5%20107q-9%2039%20-19.5%2069t-19.5%2045.5t-15.5%2024.5t-13%2015t-7.5%207%20q-14%2062%20-31%20103t-29.5%2056t-23.5%2033t-15%2040q-4%2021%206%2053.5t4.5%2049.5t-44.5%2025q-15%203%20-44.5%2018t-35.5%2016q-8%201%20-11%2026t8%2051t36%2027q37%203%2051%20-30t4%20-58q-11%20-19%20-2%20-26.5t30%20-0.5q13%204%2013%2036v37q-5%2030%20-13.5%2050t-21%2030.5t-23.5%2015t-27%207.5q-107%20-8%20-89%20-134q0%20-15%20-1%20-15%20q-9%209%20-29.5%2010.5t-33%20-0.5t-15.5%205q1%2057%20-16%2090t-45%2034q-27%201%20-41.5%20-27.5t-16.5%20-59.5q-1%20-15%203.5%20-37t13%20-37.5t15.5%20-13.5q10%203%2016%2014q4%209%20-7%208q-7%200%20-15.5%2014.5t-9.5%2033.5q-1%2022%209%2037t34%2014q17%200%2027%20-21t9.5%20-39t-1.5%20-22q-22%20-15%20-31%20-29q-8%20-12%20-27.5%20-23.5%20t-20.5%20-12.5q-13%20-14%20-15.5%20-27t7.5%20-18q14%20-8%2025%20-19.5t16%20-19t18.5%20-13t35.5%20-6.5q47%20-2%20102%2015q2%201%2023%207t34.5%2010.5t29.5%2013t21%2017.5q9%2014%2020%208q5%20-3%206.5%20-8.5t-3%20-12t-16.5%20-9.5q-20%20-6%20-56.5%20-21.5t-45.5%20-19.5q-44%20-19%20-70%20-23q-25%20-5%20-79%202q-10%202%20-9%20-2t17%20-19%20q25%20-23%2067%20-22q17%201%2036%207t36%2014t33.5%2017.5t30%2017t24.5%2012t17.5%202.5t8.5%20-11q0%20-2%20-1%20-4.5t-4%20-5t-6%20-4.5t-8.5%20-5t-9%20-4.5t-10%20-5t-9.5%20-4.5q-28%20-14%20-67.5%20-44t-66.5%20-43t-49%20-1q-21%2011%20-63%2073q-22%2031%20-25%2022q-1%20-3%20-1%20-10q0%20-25%20-15%20-56.5t-29.5%20-55.5t-21%20-58t11.5%20-63%20q-23%20-6%20-62.5%20-90t-47.5%20-141q-2%20-18%20-1.5%20-69t-5.5%20-59q-8%20-24%20-29%20-3q-32%2031%20-36%2094q-2%2028%204%2056q4%2019%20-1%2018l-4%20-5q-36%20-65%2010%20-166q5%20-12%2025%20-28t24%20-20q20%20-23%20104%20-90.5t93%20-76.5q16%20-15%2017.5%20-38t-14%20-43t-45.5%20-23q8%20-15%2029%20-44.5t28%20-54t7%20-70.5q46%2024%207%2092%20q-4%208%20-10.5%2016t-9.5%2012t-2%206q3%205%2013%209.5t20%20-2.5q46%20-52%20166%20-36q133%2015%20177%2087q23%2038%2034%2030q12%20-6%2010%20-52q-1%20-25%20-23%20-92q-9%20-23%20-6%20-37.5t24%20-15.5q3%2019%2014.5%2077t13.5%2090q2%2021%20-6.5%2073.5t-7.5%2097t23%2070.5q15%2018%2051%2018q1%2037%2034.5%2053t72.5%2010.5t60%20-22.5zM626%201152%20q3%2017%20-2.5%2030t-11.5%2015q-9%202%20-9%20-7q2%20-5%205%20-6q10%200%207%20-15q-3%20-20%208%20-20q3%200%203%203zM1045%20955q-2%208%20-6.5%2011.5t-13%205t-14.5%205.5q-5%203%20-9.5%208t-7%208t-5.5%206.5t-4%204t-4%20-1.5q-14%20-16%207%20-43.5t39%20-31.5q9%20-1%2014.5%208t3.5%2020zM867%201168q0%2011%20-5%2019.5t-11%2012.5t-9%203q-14%20-1%20-7%20-7l4%20-2%20q14%20-4%2018%20-31q0%20-3%208%202zM921%201401q0%202%20-2.5%205t-9%207t-9.5%206q-15%2015%20-24%2015q-9%20-1%20-11.5%20-7.5t-1%20-13t-0.5%20-12.5q-1%20-4%20-6%20-10.5t-6%20-9t3%20-8.5q4%20-3%208%200t11%209t15%209q1%201%209%201t15%202t9%207zM1486%2060q20%20-12%2031%20-24.5t12%20-24t-2.5%20-22.5t-15.5%20-22t-23.5%20-19.5t-30%20-18.5%20t-31.5%20-16.5t-32%20-15.5t-27%20-13q-38%20-19%20-85.5%20-56t-75.5%20-64q-17%20-16%20-68%20-19.5t-89%2014.5q-18%209%20-29.5%2023.5t-16.5%2025.5t-22%2019.5t-47%209.5q-44%201%20-130%201q-19%200%20-57%20-1.5t-58%20-2.5q-44%20-1%20-79.5%20-15t-53.5%20-30t-43.5%20-28.5t-53.5%20-11.5q-29%201%20-111%2031t-146%2043q-19%204%20-51%209.5%20t-50%209t-39.5%209.5t-33.5%2014.5t-17%2019.5q-10%2023%207%2066.5t18%2054.5q1%2016%20-4%2040t-10%2042.5t-4.5%2036.5t10.5%2027q14%2012%2057%2014t60%2012q30%2018%2042%2035t12%2051q21%20-73%20-32%20-106q-32%20-20%20-83%20-15q-34%203%20-43%20-10q-13%20-15%205%20-57q2%20-6%208%20-18t8.5%20-18t4.5%20-17t1%20-22q0%20-15%20-17%20-49t-14%20-48%20q3%20-17%2037%20-26q20%20-6%2084.5%20-18.5t99.5%20-20.5q24%20-6%2074%20-22t82.5%20-23t55.5%20-4q43%206%2064.5%2028t23%2048t-7.5%2058.5t-19%2052t-20%2036.5q-121%20190%20-169%20242q-68%2074%20-113%2040q-11%20-9%20-15%2015q-3%2016%20-2%2038q1%2029%2010%2052t24%2047t22%2042q8%2021%2026.5%2072t29.5%2078t30%2061t39%2054q110%20143%20124%20195%20q-12%20112%20-16%20310q-2%2090%2024%20151.5t106%20104.5q39%2021%20104%2021q53%201%20106%20-13.5t89%20-41.5q57%20-42%2091.5%20-121.5t29.5%20-147.5q-5%20-95%2030%20-214q34%20-113%20133%20-218q55%20-59%2099.5%20-163t59.5%20-191q8%20-49%205%20-84.5t-12%20-55.5t-20%20-22q-10%20-2%20-23.5%20-19t-27%20-35.5t-40.5%20-33.5t-61%20-14%20q-18%201%20-31.5%205t-22.5%2013.5t-13.5%2015.5t-11.5%2020.5t-9%2019.5q-22%2037%20-41%2030t-28%20-49t7%20-97q20%20-70%201%20-195q-10%20-65%2018%20-100.5t73%20-33t85%2035.5q59%2049%2089.5%2066.5t103.5%2042.5q53%2018%2077%2036.5t18.5%2034.5t-25%2028.5t-51.5%2023.5q-33%2011%20-49.5%2048t-15%2072.5t15.5%2047.5q1%20-31%208%20-56.5%20t14.5%20-40.5t20.5%20-28.5t21%20-19t21.5%20-13t16.5%20-9.5z" could not be found.  </div>
+</div>
+  </div>
+										
+				</div>
+				<!-- main end -->
+
+				
+			</div>
+
+		</div>
+	</section>
+	<!-- main-container end -->
+
+	
+
+		<!-- footer start (Add "light" class to #footer in order to enable light footer) -->
+	<!-- ================ -->
+	<footer id="footer" class="light">
+	    
+				<!-- .footer start -->
+		<!-- ================ -->
+		<div class="footer">
+			<div class="container">
+				<div class="row">
+										<div class="col-md-12">
+						<div class="footer-content">
+							  <div class="region region-footer-first">
+    <div id="block-block-2" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <ul class="social-links large circle colored text-center"><li class="facebook"><a target="_blank" href="../../../../../../../../https@www.facebook.com/pages/HtmlCoder/714570988650168"><i class="fa fa-facebook"></i></a></li>
+<li class="twitter"><a target="_blank" href="../../../../../../../../https@twitter.com/HtmlcoderMe"><i class="fa fa-twitter"></i></a></li>
+<li class="wrapbootstrap"><a target="_blank" href="../../../../../../../../https@wrapbootstrap.com/user/HtmlCoder"><i class="fa fa-wrapbootstrap"></i></a></li>
+</ul>  </div>
+</div>
+<div id="block-block-3" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <p class="text-center">Copyright 2016 © htmlcoder.me</p>
+  </div>
+</div>
+  </div>
+						</div>
+					</div>
+					
+					
+					
+									</div>
+			</div>
+		</div>
+		<!-- .footer end -->
+		
+		
+	</footer>
+	<!-- footer end -->
+	
+</div>
+<!-- page wrapper end -->  </body>
+</html>

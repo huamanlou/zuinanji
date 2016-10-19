@@ -42,6 +42,28 @@
 			}); // End Notify Plugin - The above code (from line 14) is used for demonstration purposes only
 
 		};
+		$('.navbar-right').find('a').click(function(){
+			var id = $(this).data('id');
+			switch(id){
+				case 'AboutUs':
+					$("body,html").animate({scrollTop:650},500);
+					break;
+				case 'FeaturedDishes':
+					$("body,html").animate({scrollTop:1300},500);
+					break;
+				case 'OurService':
+					$("body,html").animate({scrollTop:1800},500);
+					break;
+				case 'ContactUs':
+					$("body,html").animate({scrollTop:$('#footer').offset().top},500);
+					break;
+					
+					
+				default:
+					$("body,html").animate({scrollTop:0},500);
+			}
+			return false;
+		});
 	}); // End document ready
 
 })(this.jQuery);

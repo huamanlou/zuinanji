@@ -1,4 +1,5 @@
 <?php
+ini_set('error_report',1);
 $S_KEY = 'zuinanji!@#123';
 
 //$k = 201612092025
@@ -2465,15 +2466,15 @@ if($t == md5($k.$S_KEY)){
 <div id="vAct_modexBox_arrowLine_1481272779307" class="VACT_modelBox&#x20;vAct_modexBox_arrowLine_1481272779307&#x20;" data-align="" style="position:absolute;width:320px;height:30px;left:0px;z-index:50016;top:73px;"><div container="1" type="arrowLine" class="v_arrowLine_st&lt;x&gt;yle1&#x20;vAct_modexBox_arrowLine_1481272779307_css" style="width:320px;height:30px;"><div class="lineWrap"><div class="leftArrow"></div><div class="lineBox"><div class="line"></div></div><div class="rightArrow"></div></div></div><!-- vAct_modexBox_arrowLine_1481272779307 --></div>
 
 
-<?if($check){?>
+<?php if($check){?>
 <div id="vAct_modexBox_image_1481272968368" class="VACT_modelBox&#x20;vAct_modexBox_image_1481272968368&#x20;" data-align="" style="position:absolute;width:55px;height:60px;left:2px;z-index:50018;top:114px;"><div class="v_image_style1&#x20;vAct_modexBox_image_1481272968368_css" style="width:55px;height:60px;">
 <img style="cursor:default;width:100%;height:100%;" src="http&#x3A;&#x2F;&#x2F;fl5.gtimg.com&#x2F;flpartition0&#x2F;7088&#x2F;631007088&#x2F;762&#x2F;2754922528171269701821720695901.jpg&#x21;t110x120.jpg" id="imageId_584a70f463925" class="imageId_584a70f463925" data-scaling="scale"></img></div><!-- vAct_modexBox_image_1481272968368 --></div>
 <div id="vAct_modexBox_paragraph_1481273281129" class="VACT_modelBox&#x20;vAct_modexBox_paragraph_1481273281129&#x20;" data-align="" style="position:absolute;width:247px;height:46px;left:68px;z-index:50019;top:123px;"><div style="width:247px;height:100%;word-break:normal;" class="VAct_urlCheck&#x20;v_paragraph_st&lt;x&gt;yle1&#x20;vAct_modexBox_paragraph_1481273281129_css"><p><span style="font-size:20px;"><b>您查询的产品为醉南鸡经营的产品，感谢您的支持！</b></span></p>
 </div></div>
-<?}else{?>
+<?php }else{?>
 <div id="vAct_modexBox_paragraph_1481273281129" class="VACT_modelBox&#x20;vAct_modexBox_paragraph_1481273281129&#x20;" data-align="" style="position:absolute;width:247px;height:46px;left:68px;z-index:50019;top:123px;"><div style="width:247px;height:100%;word-break:normal;" class="VAct_urlCheck&#x20;v_paragraph_st&lt;x&gt;yle1&#x20;vAct_modexBox_paragraph_1481273281129_css"><p><span style="font-size:20px;color:red"><b>该产品为非醉南鸡经营生产的，请联系我们！</b></span></p>
 </div></div>
-<?}?>
+<?php }?>
 <div id="vAct_modexBox_paragraph_1481273756550" class="VACT_modelBox&#x20;vAct_modexBox_paragraph_1481273756550&#x20;" data-align="" style="position:absolute;width:310px;height:63px;left:5px;z-index:50020;top:467px;"><div style="width:310px;height:100%;word-break:normal;" class="VAct_urlCheck&#x20;v_paragraph_st&lt;x&gt;yle1&#x20;vAct_modexBox_paragraph_1481273756550_css"><p>深圳醉南鸡餐饮管理有限公司专注海南文昌鸡批发，菜品研发、文昌鸡食材供应。是致力于打造海南文昌鸡特色精品菜系的现代化餐饮管理公司。</p>
 </div><!-- vAct_modexBox_paragraph_1481273756550 --></div>
 

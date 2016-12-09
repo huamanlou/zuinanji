@@ -1,5 +1,4 @@
 <?php
-ini_set('error_report',1);
 $S_KEY = 'zuinanji!@#123';
 
 //$k = 201612092025
@@ -11,7 +10,7 @@ $t = $_GET['t'];
 
 $check = false;
 
-if($t == md5($k.$S_KEY)){
+if($t == md5($k.$S_KEY) && !empty($k)){
 	$check = true;
 }
 
@@ -1636,7 +1635,7 @@ if($t == md5($k.$S_KEY)){
   bottom: 0;
   background-repeat-x: repeat;
   background-repeat-y: no-repeat;
-  background-image: url('data:image/svg+xml;utf8,<?xml version="1.0" encoding="UTF-8" standalone="no"?> <svg viewBox="0 0 426.66666 4" height="4" version="1.1" width="427" xmlns="http://www.w3.org/2000/svg"><desc style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Created with Raphaël 2.0.1</desc><defs style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></defs><rect x="0" y="0" width="427" height="4" r="0" rx="0" ry="0" fill="#ffffff" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></rect><rect x="0" y="0" width="427" height="4" r="0" rx="0" ry="0" fill="#06c29c" stroke="#FFF" stroke-width="0" opacity="1" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); opacity: 1;"></rect></svg>');;
+
 }
 .v_arrowLine_style1 .rightArrow {
   position: absolute;
@@ -1929,7 +1928,7 @@ if($t == md5($k.$S_KEY)){
   bottom: 0;
   background-repeat-x: repeat;
   background-repeat-y: no-repeat;
-  background-image: url('data:image/svg+xml;utf8,<?xml version="1.0" encoding="UTF-8" standalone="no"?> <svg viewBox="0 0 426.66666 4" height="4" version="1.1" width="427" xmlns="http://www.w3.org/2000/svg"><desc style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Created with Raphaël 2.0.1</desc><defs style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></defs><rect x="0" y="0" width="427" height="4" r="0" rx="0" ry="0" fill="#ffffff" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></rect><rect x="0" y="0" width="427" height="4" r="0" rx="0" ry="0" fill="#ff9900" stroke="#FFF" stroke-width="0" opacity="1" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); opacity: 1;"></rect></svg>');;
+
 }
 .vAct_modexBox_arrowLine_148127248422318_css .rightArrow {
   position: absolute;
@@ -1990,7 +1989,7 @@ if($t == md5($k.$S_KEY)){
   bottom: 0;
   background-repeat-x: repeat;
   background-repeat-y: no-repeat;
-  background-image: url('data:image/svg+xml;utf8,<?xml version="1.0" encoding="UTF-8" standalone="no"?> <svg viewBox="0 0 426.66666 4" height="4" version="1.1" width="427" xmlns="http://www.w3.org/2000/svg"><desc style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Created with Raphaël 2.0.1</desc><defs style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></defs><rect x="0" y="0" width="427" height="4" r="0" rx="0" ry="0" fill="#ffffff" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></rect><rect x="0" y="0" width="427" height="4" r="0" rx="0" ry="0" fill="#ff9900" stroke="#FFF" stroke-width="0" opacity="1" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); opacity: 1;"></rect></svg>');;
+
 }
 .vAct_modexBox_arrowLine_148127248490535_css .rightArrow {
   position: absolute;
@@ -2051,7 +2050,7 @@ if($t == md5($k.$S_KEY)){
   bottom: 0;
   background-repeat-x: repeat;
   background-repeat-y: no-repeat;
-  background-image: url('data:image/svg+xml;utf8,<?xml version="1.0" encoding="UTF-8" standalone="no"?> <svg viewBox="0 0 426.66666 4" height="4" version="1.1" width="427" xmlns="http://www.w3.org/2000/svg"><desc style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Created with Raphaël 2.0.1</desc><defs style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></defs><rect x="0" y="0" width="427" height="4" r="0" rx="0" ry="0" fill="#ffffff" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></rect><rect x="0" y="0" width="427" height="4" r="0" rx="0" ry="0" fill="#ff9900" stroke="#FFF" stroke-width="0" opacity="1" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); opacity: 1;"></rect></svg>');;
+
 }
 .vAct_modexBox_arrowLine_1481274758135_css .rightArrow {
   position: absolute;
@@ -2135,7 +2134,7 @@ if($t == md5($k.$S_KEY)){
   bottom: 0;
   background-repeat-x: repeat;
   background-repeat-y: no-repeat;
-  background-image: url('data:image/svg+xml;utf8,<?xml version="1.0" encoding="UTF-8" standalone="no"?> <svg viewBox="0 0 426.66666 4" height="4" version="1.1" width="427" xmlns="http://www.w3.org/2000/svg"><desc style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Created with Raphaël 2.0.1</desc><defs style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></defs><rect x="0" y="0" width="427" height="4" r="0" rx="0" ry="0" fill="#ffffff" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></rect><rect x="0" y="0" width="427" height="4" r="0" rx="0" ry="0" fill="#ff9900" stroke="#FFF" stroke-width="0" opacity="1" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); opacity: 1;"></rect></svg>');;
+
 }
 .vAct_modexBox_arrowLine_1481272779307_css .rightArrow {
   position: absolute;
@@ -2272,7 +2271,7 @@ if($t == md5($k.$S_KEY)){
   bottom: 0;
   background-repeat-x: repeat;
   background-repeat-y: no-repeat;
-  background-image: url('data:image/svg+xml;utf8,<?xml version="1.0" encoding="UTF-8" standalone="no"?> <svg viewBox="0 0 426.66666 4" height="4" version="1.1" width="427" xmlns="http://www.w3.org/2000/svg"><desc style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Created with Raphaël 2.0.1</desc><defs style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></defs><rect x="0" y="0" width="427" height="4" r="0" rx="0" ry="0" fill="#ffffff" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></rect><rect x="0" y="0" width="427" height="4" r="0" rx="0" ry="0" fill="#ff9900" stroke="#FFF" stroke-width="0" opacity="1" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); opacity: 1;"></rect></svg>');;
+
 }
 .vAct_modexBox_arrowLine_1481274936606_css .rightArrow {
   position: absolute;
@@ -2333,7 +2332,6 @@ if($t == md5($k.$S_KEY)){
   bottom: 0;
   background-repeat-x: repeat;
   background-repeat-y: no-repeat;
-  background-image: url('data:image/svg+xml;utf8,<?xml version="1.0" encoding="UTF-8" standalone="no"?> <svg viewBox="0 0 426.66666 4" height="4" version="1.1" width="427" xmlns="http://www.w3.org/2000/svg"><desc style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Created with Raphaël 2.0.1</desc><defs style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></defs><rect x="0" y="0" width="427" height="4" r="0" rx="0" ry="0" fill="#ffffff" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></rect><rect x="0" y="0" width="427" height="4" r="0" rx="0" ry="0" fill="#ff9900" stroke="#FFF" stroke-width="0" opacity="1" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); opacity: 1;"></rect></svg>');;
 }
 .vAct_modexBox_arrowLine_1481274989751_css .rightArrow {
   position: absolute;
